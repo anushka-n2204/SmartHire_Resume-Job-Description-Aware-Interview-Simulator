@@ -1,0 +1,10 @@
+{
+  "python": ["functions", "classes", "libraries", "exceptions", "loops"],
+  "sql": ["select", "join", "index", "query", "normalization"],
+  "flask": ["api", "routes", "request", "response"],
+  "django": ["models", "views", "orm", "templates"],
+  "docker": ["container", "image", "dockerfile", "compose"],
+  "react": ["components", "props", "state", "hooks"],
+  "node": ["express", "middleware", "api", "async"],
+  "database": ["schema", "index", "query", "transaction"]
+}

@@ -1,0 +1,3 @@
+We are looking for a backend developer.
+Required skills: Python, SQL, APIs, Docker.
+Experience with system design is a plus.

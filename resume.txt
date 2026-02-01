@@ -1,0 +1,3 @@
+I am a software engineering student.
+I have experience in Python, SQL, and REST APIs.
+I have worked on backend projects using Flask and MySQL.

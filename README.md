@@ -18,3 +18,5 @@ It asks adaptive questions and generates a readiness report.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+🚀 Live Demo: https://smarthireresume-job-description-aware-interview-simulatorgit-y.streamlit.app/
+Drive Video link : https://drive.google.com/file/d/1OPGRMuAXo0oxMo-q_PJQi51L9dG6T_sW/view?usp=sharing
